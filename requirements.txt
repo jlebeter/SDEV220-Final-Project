@@ -1,0 +1,5 @@
+#These are the dependencies used for this project
+python #coding language used for this program
+pandas #used in excel_utils.py for handling and updating Excel sheets
+openpyxl #required for reading and writing Excel files in excel_utils.py
+tkinter #used in main.py for the GUI
